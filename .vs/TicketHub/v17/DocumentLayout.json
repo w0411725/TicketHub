@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\models\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\models\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|e:\\semester4\\spectop\\a3_test\\tickethub\\tickethub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DA8E2E5E-CE2A-4173-8A17-695FADCAEC5F}|TicketHub\\TicketHub.csproj|solutionrelative:tickethub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\proxm\\AppData\\Roaming\\Microsoft\\UserSecrets\\4049ccf5-b9e7-4516-a096-01e95ce75e72\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -29,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\TicketHub\\.gitignore",
               "RelativeDocumentMoniker": "TicketHub\\.gitignore",
@@ -41,12 +41,11 @@
               "RelativeToolTip": "TicketHub\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-03-31T00:38:24.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:38:24.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\TicketHub\\Program.cs",
               "RelativeDocumentMoniker": "TicketHub\\Program.cs",
@@ -54,8 +53,7 @@
               "RelativeToolTip": "TicketHub\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T00:13:16.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:13:16.034Z"
             },
             {
               "$type": "Document",
@@ -69,25 +67,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PurchaseController.cs",
               "DocumentMoniker": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\TicketHub\\Controllers\\PurchaseController.cs",
               "RelativeDocumentMoniker": "TicketHub\\Controllers\\PurchaseController.cs",
               "ToolTip": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\TicketHub\\Controllers\\PurchaseController.cs",
               "RelativeToolTip": "TicketHub\\Controllers\\PurchaseController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswDcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:39:16.702Z"
+              "WhenOpened": "2025-03-30T23:39:16.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TicketPurchase.cs",
               "DocumentMoniker": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\TicketHub\\Models\\TicketPurchase.cs",
               "RelativeDocumentMoniker": "TicketHub\\Models\\TicketPurchase.cs",
               "ToolTip": "E:\\Semester4\\SpecTop\\A3_Test\\TicketHub\\TicketHub\\Models\\TicketPurchase.cs",
               "RelativeToolTip": "TicketHub\\Models\\TicketPurchase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T23:37:26.962Z"
             }
